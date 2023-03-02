@@ -12,8 +12,7 @@ TunerPro - nemokama programinė įranga<br>
 [TunerPro.net](http://www.tunerpro.net/) - interneto svetainė<br>
 [Youtube - TunerPro Video Tutorial](https://www.youtube.com/playlist?list=PLiVpvgq8w2uEkzzLg6AGjGBu8AUp4cEjo)<br>
 
-##
-How to start?
+## How to start?
 [ECU Remaps : About Tools, Software & Tuners!](https://www.team-bhp.com/forum/technical-stuff/190894-ecu-remaps-about-tools-software-tuners.html) - trumpa suvestinė apie įrangą ir softą pirmiems žingsniams<br>
 
 
