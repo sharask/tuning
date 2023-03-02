@@ -1,0 +1,1 @@
+Skiltis teorinei informacijai
