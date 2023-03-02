@@ -15,4 +15,5 @@ TunerPro - nemokama programinė įranga<br>
 ## How to start?
 [ECU Remaps : About Tools, Software & Tuners!](https://www.team-bhp.com/forum/technical-stuff/190894-ecu-remaps-about-tools-software-tuners.html) - trumpa suvestinė apie įrangą ir softą pirmiems žingsniams<br>
 
-
+## Diskusijų forumai
+[ECUedit forum](https://www.ecuedit.com/) - aparatinė, programinė įranga, literatūra ir kt.<br>
