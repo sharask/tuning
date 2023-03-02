@@ -17,3 +17,13 @@ TunerPro - nemokama programinė įranga<br>
 
 ## Diskusijų forumai
 [ECUedit forum](https://www.ecuedit.com/) - aparatinė, programinė įranga, literatūra ir kt.<br>
+
+## Pamokos, metodinė informacija
+[Auto Repair Technician Home](https://www.car-auto-repair.com/category/ecu-chip-tuning/) - Coding, Key program, Software, ECU Chip Tuning<br>
+
+## Paslaugos, ECU failai
+[Remapas](http://remapas.eu/)<br>
+[Chiptuning.pw](http://chiptuning.pw/ecu-files/) - ECU files
+[dyno-chiptuningfiles.com](https://www.dyno-chiptuningfiles.com/) - ONLINE SERVICE FOR CUSTOM TUNING FILES
+
+
