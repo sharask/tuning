@@ -1,0 +1,1 @@
+Skiltis manual'ams, aprašymams
