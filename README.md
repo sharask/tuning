@@ -7,6 +7,7 @@ WinOLS is an application, which is written especially to modify the memory conte
 
 [vagecumap](https://sites.google.com/site/vagecumap/2-winols-guide) - WinOLS naudojimo instrukcija ir VAG ECU programavimo pavyzdžiai<br>
 [vagecumap](https://www.youtube.com/playlist?list=PLxYpxtRjTQYJie-xnCH_Unx4l65Cu6W-r) - Youtube įrašai<br>
+- šiuo metu vagecumap prašo registracijos ir mokėjimo. Tačiau galima rasti perkopijuotos informacijos: [pvz1](https://www.car-auto-repair.com/winols-remap-exhaust-gas-recirculation-egr-map-in-the-ecu/), [pvz2](http://blog.obdii365.com/2016/12/16/change-egr-map-in-winols-tuning-software/)
 ***
 TunerPro - nemokama programinė įranga<br>
 [TunerPro.net](http://www.tunerpro.net/) - interneto svetainė<br>
