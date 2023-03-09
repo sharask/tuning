@@ -18,6 +18,7 @@ TunerPro - nemokama programinė įranga<br>
 
 ## Diskusijų forumai
 [ECUedit forum](https://www.ecuedit.com/) - aparatinė, programinė įranga, literatūra ir kt.<br>
+--> Search ECU info - ECU numerio dekodavimas<br>
 
 ## Pamokos, metodinė informacija
 [Auto Repair Technician Home](https://www.car-auto-repair.com/category/ecu-chip-tuning/) - Coding, Key program, Software, ECU Chip Tuning<br>
