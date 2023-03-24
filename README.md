@@ -24,6 +24,7 @@ TunerPro - nemokama programinė įranga<br>
 
 ## Pamokos, metodinė informacija
 [Auto Repair Technician Home](https://www.car-auto-repair.com/category/ecu-chip-tuning/) - Coding, Key program, Software, ECU Chip Tuning<br>
+[HPAcademy](https://www.hpacademy.com/) - yra nemokamų (ir mokamų) kursų<br>
 
 ## Paslaugos, ECU failai
 [Remapas](http://remapas.eu/)<br>
